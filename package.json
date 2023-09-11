@@ -1,0 +1,29 @@
+{
+  "name": "eth-wallet-generator",
+  "version": "0.0.1",
+  "description": "\"Simple commandline wallet generator for ethereum compatible wallet addresses\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaisyDomergue/eth-wallet-generator.git"
+  },
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "crypto",
+    "web3"
+  ],
+  "author": "daisy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaisyDomergue/eth-wallet-generator/issues"
+  },
+  "homepage": "https://github.com/DaisyDomergue/eth-wallet-generator#readme",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethers": "^6.7.1"
+  }
+}
