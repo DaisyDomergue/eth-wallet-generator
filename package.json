@@ -1,5 +1,5 @@
 {
-  "name": "ethtools",
+  "name": "eth-wallet-tools",
   "version": "0.0.1",
   "description": "\"Simple commandline wallet generator for ethereum compatible wallet addresses\"",
   "main": "bin/ethools.js",
