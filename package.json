@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/DaisyDomergue/eth-wallet-generator/issues"
   },
-  "homepage": "https://github.com/DaisyDomergue/eth-wallet-generator#readme"
+  "homepage": "https://github.com/DaisyDomergue/eth-wallet-generator#readme",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethers": "^6.7.1"
+  }
 }
